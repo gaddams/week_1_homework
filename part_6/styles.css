@@ -63,8 +63,7 @@ border-collapse:collapse;
 }
 
 tr{
-  border-style: solid;
-  border-color: gray;
+  border: thin gray solid;
 }
 
 /* ----------------------------------------------------------------- */

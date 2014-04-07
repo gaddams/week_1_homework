@@ -3,3 +3,28 @@
 * {
   border: thin red solid;
 }
+
+
+.row{
+	clear: both;
+}
+
+.heading{
+	background-color: gray;
+	height: 200px;
+}
+
+.one_column{
+	width: 33%;
+	float: left;
+}
+
+.two_columns{
+	width: 66%;
+	float: left;
+}
+
+.skinny_column{
+	width: 25%;
+	float: left;
+}
